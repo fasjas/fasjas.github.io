@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as r,a0 as n}from"./chunks/framework.Bao410PF.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"我回复了告白.md","filePath":"我回复了告白.md"}'),h={name:"我回复了告白.md"};function t(i,p,o,l,d,s){return e(),r("div",null,[...p[0]||(p[0]=[n("",7442)])])}const b=a(h,[["render",t]]);export{u as __pageData,b as default};
