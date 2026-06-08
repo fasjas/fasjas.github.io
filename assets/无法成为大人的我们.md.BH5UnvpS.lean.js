@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as r,a0 as h}from"./chunks/framework.Bao410PF.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"无法成为大人的我们.md","filePath":"无法成为大人的我们.md"}'),t={name:"无法成为大人的我们.md"};function o(i,p,l,n,d,s){return e(),r("div",null,[...p[0]||(p[0]=[h("",2039)])])}const q=a(t,[["render",o]]);export{u as __pageData,q as default};

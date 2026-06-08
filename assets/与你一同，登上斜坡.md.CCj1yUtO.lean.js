@@ -1,1 +1,0 @@
-import{_ as a,o as e,c as t,a0 as r}from"./chunks/framework.Bao410PF.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"与你一同，登上斜坡.md","filePath":"与你一同，登上斜坡.md"}'),o={name:"与你一同，登上斜坡.md"};function i(n,p,_,l,h,s){return e(),t("div",null,[...p[0]||(p[0]=[r("",249)])])}const u=a(o,[["render",i]]);export{c as __pageData,u as default};
